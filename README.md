@@ -1,2 +1,2 @@
 # AI-ML
-# Diabetes Prediction List
+Diabetes Prediction List
